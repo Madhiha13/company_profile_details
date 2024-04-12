@@ -31,14 +31,14 @@
   .user-5-1,
   .user-5-2 {
     top: 64px;
-    left: 1049px;
+    left: 1275px;
     width: 44px;
     height: 48px;
     border-radius: 50%;
   }
   .user-5-2 {
-    top: 223px;
-    left: 174px;
+    top: 190px;
+    left: 194px;
     width: 82px;
     height: 89px;
     border-radius: 50%;
@@ -46,7 +46,7 @@
   .beyos {
     position: absolute;
     top: 100px;
-    left: 221px;
+    left: 241px;
     font-size: 40px;
     font-family: var(--font-poppins);
     background: linear-gradient(180deg, #014762, #448e1f);
@@ -64,13 +64,13 @@
   .description {
     position: absolute;
     top: 300px;
-    left: 280px;
+    left: 320px;
     border-radius: var(--br-5xs);
     background-color: var(--color-white);
     border: 1.5px solid var(--color-darkgray);
     box-sizing: border-box;
     resize: none;
-    width: 350px;
+    width: 450px;
     height: 160px;
 
   }
@@ -81,11 +81,11 @@
   .rectangle-div {
     position: absolute;
     top: -14px;
-    left: -15px;
+    left: 20px;
     border-radius: var(--br-5xs);
     border: 1.5px solid var(--color-darkgray);
     box-sizing: border-box;
-    width: 710px;
+    width: 915px;
     height: 37px;
   }
 
@@ -107,20 +107,20 @@ textarea::placeholder{
   .company-information-page-child2,
   .rectangle-div {
     top: 299px;
-    left: 640px;
-    width: 350px;
+    left: 780px;
+    width: 450px;
     height: 91px;
   }
   .company-information-page-child1,
   .company-information-page-child2 {
     top: 490px;
-    left: 280px;
+    left: 320px;
     background-color: var(--color-white);
     height: 36px;
   }
   .company-information-page-child2 {
     top: 420px;
-    left: 640px;
+    left: 780px;
   }
   .no-of-employees,
   .organization-name,
@@ -128,7 +128,7 @@ textarea::placeholder{
   .website {
     position: absolute;
     top: 190px;
-    left: 280px;
+    left: 320px;
     font-weight: 600;
     display: inline-block;
     width: 460px;
@@ -138,12 +138,12 @@ textarea::placeholder{
   .registered-address,
   .website {
     top: 265px;
-    left: 640px;
+    left: 780px;
   }
   .no-of-employees,
   .website {
     top: 470px;
-    left: 280px;
+    left: 320px;
   }
   .website {
     top: 400px;
@@ -152,18 +152,18 @@ textarea::placeholder{
   .company-information-page-child3 {
     position: absolute;
     top: 555px;
-    left: 640px;
+    left: 780px;
     border-radius: var(--br-5xs);
     background-color: var(--color-white);
     border: 1.5px solid var(--color-darkgray);
     box-sizing: border-box;
-    width: 350px;
+    width: 450px;
     height: 36px;
   }
   .nature-of-business {
     position: absolute;
     top: 535px;
-    left: 640px;
+    left: 780px;
     font-weight: 600;
     display: inline-block;
     width: 490px;
@@ -172,18 +172,18 @@ textarea::placeholder{
   .company-information-page-child4 {
     position: absolute;
     top: 490px;
-    left: 640px;
+    left: 780px;
     border-radius: var(--br-5xs);
     background-color: var(--color-white);
     border: 1.5px solid var(--color-darkgray);
     box-sizing: border-box;
-    width: 350px;
+    width: 450px;
     height: 36px;
   }
   .sector {
     position: absolute;
     top: 470px;
-    left: 640px;
+    left: 780px;
     font-weight: 600;
     display: inline-block;
     width: 490px;
@@ -192,18 +192,18 @@ textarea::placeholder{
   .company-information-page-child5 {
     position: absolute;
     top: 555px;
-    left: 280px;
+    left: 320px;
     border-radius: var(--br-5xs);
     background-color: var(--color-white);
     border: 1.5px solid var(--color-darkgray);
     box-sizing: border-box;
-    width: 350px;
+    width: 450px;
     height: 36px;
   }
   .currency-in-which {
     position: absolute;
     top: 535px;
-    left: 280px;
+    left: 320px;
     font-weight: 600;
     display: inline-block;
     width: 441px;
@@ -211,8 +211,8 @@ textarea::placeholder{
   }
   .edit-1-icon {
     position: absolute;
-    top: 276px;
-    left: 227px;
+    top: 240px;
+    left: 247px;
     width: 36px;
     height: 36px;
     object-fit: cover;
@@ -220,7 +220,7 @@ textarea::placeholder{
   .general-description-of {
     position: absolute;
     top: 265px;
-    left: 280px;
+    left: 320px;
     letter-spacing: -0.03em;
     font-weight: 600;
     display: inline-block;
@@ -230,7 +230,7 @@ textarea::placeholder{
   .company-information-page-child6 {
     position: absolute;
     top: 620px;
-    left: 860px;
+    left: 1110px;
     border-radius: 30.5px;
     background: linear-gradient(180deg, #014762, #448e1f);
     width: 123px;
@@ -239,7 +239,7 @@ textarea::placeholder{
   .add-1-icon {
     position: absolute;
     top: 630px;
-    left: 890px;
+    left: 1150px;
     width: 14px;
     height: 17px;
     object-fit: cover;
@@ -247,7 +247,7 @@ textarea::placeholder{
   .next {
     position: absolute;
     top: 630px;
-    left: 920px;
+    left: 1170px;
     font-size: 12px;
     display: inline-block;
     font-family: var(--font-poppins);
