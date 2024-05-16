@@ -235,6 +235,7 @@ textarea::placeholder{
     background: linear-gradient(180deg, #014762, #448e1f);
     width: 123px;
     height: 41px;
+    cursor: pointer;
   }
   .add-1-icon {
     position: absolute;
@@ -254,6 +255,7 @@ textarea::placeholder{
     color: var(--color-white);
     width: 73px;
     height: 16px;
+    cursor:default;
   }
   .address,
   .currency,
